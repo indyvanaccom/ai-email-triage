@@ -153,8 +153,3 @@ This provides a clear audit trail of all decisions made by the system.
 - Slack / Telegram notifications for urgent emails
 - Auto-send for low-risk replies (with safeguards)
 - Multi-message context awareness
-
----
-### Google Sheets — Full audit log of all processed emails
-![Google Sheets log](screenshots/sheet.png)
-...existing code...
