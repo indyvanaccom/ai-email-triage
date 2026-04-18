@@ -1,11 +1,11 @@
 # 📸 Example output
 
-![Draft NL](screenshots/draft.NL)
-![Draft FR](screenshots/draft.FR)
-![Draft FR 2](screenshots/draft.fr.2)
-![Google Sheets log](screenshots/sheets)
-![TO_REVIEW label view](screenshots/to.review)
-![URGENT label view](screenshots/urgent)
+![Draft NL](screenshots/draft.NL.png)
+![Draft FR](screenshots/draft.FR.png)
+![Draft FR 2](screenshots/draft.fr.2.png)
+![Google Sheets log](screenshots/sheets.png)
+![TO_REVIEW label view](screenshots/to.review.png)
+![URGENT label view](screenshots/urgent.png)
 ![Google Sheets log](screenshots/sheet.png)
 ![Draft NL](screenshots/draft_nl.png)
 ![Draft FR](screenshots/draft_fr.png)
