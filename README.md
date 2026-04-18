@@ -6,46 +6,7 @@
 ![Draft FR](screenshots/draft_fr.png)
 ![TO_REVIEW label view](screenshots/to_review.png)
 ![Fwd: Problème livraison](screenshots/fwd_probleem_livraison.png)
-# ai-email-triage
-AI-powered Gmail automation that classifies emails, drafts replies, flags urgent cases, and logs activity to Google Sheets.
-
-# AI Email Triage Pipeline
-
-A Python-based Gmail automation system that classifies incoming emails, generates draft replies for standard customer requests, flags high-risk messages, and keeps the inbox clean, structured, and actionable.
-
----
-
-## 🚀 What it does
-
-- Fetches unread emails from Gmail
-- Classifies each email as `reply`, `escalate`, or `ignore`
-- Generates concise, human-like draft replies for standard customer emails
-- Adds a `TO_REVIEW` label for drafts ready to be validated and sent
-- Adds an `URGENT` label for high-risk or sensitive emails
-- Logs all processed emails to Google Sheets for tracking and auditing
-- Automatically cleans email threads after replies are sent
-
----
-
-## ⚙️ Workflow
-
-```
-Unread Gmail email
-→ Pre-filter (auto-replies, forwards, system emails)
-→ AI classification
-
-→ If reply:
-   → Generate draft reply
-   → Create Gmail draft
-   → Add label TO_REVIEW
-   → Mark as read
-
-→ If escalate:
-   → Add label URGENT
-   → Keep unread for visibility
-
-→ If ignore:
-   → Mark as read
+![Inbox](screenshots/inbox.png)
 
 → Log result to Google Sheets
 
