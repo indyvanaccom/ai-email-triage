@@ -155,21 +155,6 @@ This provides a clear audit trail of all decisions made by the system.
 - Multi-message context awareness
 
 ---
-
-## 📸 Screenshots
-
-### Inbox — URGENT emails flagged for manual handling
-![Inbox](screenshots/inbox.png)
-
-### TO_REVIEW label — 5 drafts ready to validate and send
-![TO_REVIEW label view](screenshots/to_review.png)
-
-### Draft reply — AI-generated response in Gmail (NL)
-![Draft NL](screenshots/draft_nl.png)
-
-### Draft reply — AI-generated response in Gmail (FR)
-![Draft FR](screenshots/draft_fr.png)
-
 ### Google Sheets — Full audit log of all processed emails
 ![Google Sheets log](screenshots/sheet.png)
 ...existing code...
