@@ -1,3 +1,11 @@
+# 📸 Example output
+
+![Inbox](screenshots/inbox.png)
+![Google Sheets log](screenshots/sheet.png)
+![Draft NL](screenshots/draft_nl.png)
+![Draft FR](screenshots/draft_fr.png)
+![TO_REVIEW label view](screenshots/to_review.png)
+![Fwd: Problème livraison](screenshots/fwd_probleem_livraison.png)
 # ai-email-triage
 AI-powered Gmail automation that classifies emails, drafts replies, flags urgent cases, and logs activity to Google Sheets.
 
